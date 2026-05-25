@@ -1,0 +1,8 @@
+{
+  "name": "spenza-webhook-simulator",
+  "version": "1.0.0",
+  "description": "Webhook event simulator for the Spenza code test",
+  "scripts": {
+    "send": "node send-event.js"
+  }
+}

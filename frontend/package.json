@@ -1,0 +1,18 @@
+{
+  "name": "spenza-webhook-frontend",
+  "version": "1.0.0",
+  "description": "Simple React frontend for the Spenza webhook code test",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.469.0"
+  },
+  "devDependencies": {}
+}
